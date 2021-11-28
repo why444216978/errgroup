@@ -1,5 +1,5 @@
 # errgroup
-优化官方 errgroup 包遇到错误扔继续执行的问题
+优化官方 errgroup 包遇到错误仍继续执行的问题
 
 
 ```
